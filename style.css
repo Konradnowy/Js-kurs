@@ -1,0 +1,48 @@
+
+
+.ustawienie{
+    
+    background: red;
+}
+
+.heading {
+    
+    background: red;
+    width: fit-content;
+    margin:auto; 
+    height:auto;
+     
+}
+.pogba {
+    width: 500px;
+    
+    background-color: blue;
+    margin:auto;
+    padding: 20px;
+    
+
+}
+.floatLeft {
+    float: left;
+    color: cadetblue;
+    width: 100px;
+    background-color: blueviolet;
+  
+    overflow:auto
+}
+.floatRight {
+    float:right;
+    color: blueviolet;
+    width: 100px;
+    background-color:cadetblue;
+    overflow: scroll;
+  
+}
+.heading_float {
+    background-color: brown;
+}
+.clear {
+    clear:left;
+}
+
+
